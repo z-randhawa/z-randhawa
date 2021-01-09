@@ -19,3 +19,4 @@ Here are some ideas to get you started:
 
 undergraduate BCS student at UBC and I'm learning how to use github so I can participate in a hackathon this weekend
 
+email me at zorawar.randhawa@outlook.com
