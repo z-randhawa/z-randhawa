@@ -16,8 +16,9 @@ Here are some ideas to get you started:
 -->
 
 (he/him)
+Undergraduate computer science student at UBC with a previous degree in science specializing in Biology
 
-Undergraduate BCS student at UBC
-I'm currently learning Node, Javascript, and Typescript to become a full stack Web Developer
+I am discovering the field of computer science while challenging myself to learn different facets of the world of IT. 
+I'm currently learning Node, Javascript, and Typescript to become a full stack Web Developer. 
 
 To reach me, email me at zorawar.randhawa@outlook.com
