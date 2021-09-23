@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 (he/him)
 
-undergraduate BCS student at UBC
+Undergraduate BCS student at UBC
+I'm currently learning Node, Javascript, and Typescript to become a full stack Web Developer
 
-email me at zorawar.randhawa@outlook.com
+To reach me, email me at zorawar.randhawa@outlook.com
