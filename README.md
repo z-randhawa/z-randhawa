@@ -17,6 +17,6 @@ Here are some ideas to get you started:
 
 (he/him)
 
-undergraduate BCS student at UBC and I'm learning how to use github so I can participate in a hackathon this weekend
+undergraduate BCS student at UBC
 
 email me at zorawar.randhawa@outlook.com
